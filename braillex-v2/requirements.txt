@@ -1,0 +1,15 @@
+# Braillex v2 Requirements
+
+# UI Framework
+flet>=0.25.0
+
+# Core dependencies
+pyserial>=3.5
+pynput>=1.7.6
+
+# Grammar correction
+textblob>=0.17.1
+
+# Voice assistance
+pyttsx3>=2.90
+deep-translator>=1.11.4
